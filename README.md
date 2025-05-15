@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonixhymshiti a graduated Computer Scientist and currently working as a Software Engineer.
-- 👀 I have 4 years of experience on building Web Applicatons and APIs mostly with React.JS and Node.JS respectively
-- 🌱 I’m currently enhancing my skills in the area of Identity and Access Management (OAuth & OIDC protocols, Open Source IAM solutions etc).
+- 👀 I have 4 years of experience on building Web Applicatons and APIs mostly with React.JS and Express.JS respectively
+- 🌱 I’m currently enhancing my skills in the area of AI and LLMs.
 - 💞️ I’m looking to collaborate on various software projects.
 
 <!---
