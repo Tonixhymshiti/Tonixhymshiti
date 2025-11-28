@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tonixhymshiti a Computer Scientist graduate currently working as a Senior Software Engineer at 1K5.
+- 👋 Hi, I’m @Tonixhymshiti a computer science graduate currently working as a Senior Software Engineer at 1K5.
 
 <!---
 Tonixhymshiti/Tonixhymshiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
